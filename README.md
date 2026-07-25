@@ -26,3 +26,21 @@ route.c -o q3
 | C2 | | | | |
 ## Memory safety
 State for each program whether all allocations are freed.
+
+
+## folder Structer
+
+dsa-c-final-<2308101520036>/
+README.md
+.gitignore
+SectionA/
+answers.txt
+SectionB/
+Q1_evaluator.c
+Q2_history.c
+Q3A_route.c (or Q3B_index.c)
+SectionC/
+review.md
+C1_reverse.c
+C2_window.c
+
