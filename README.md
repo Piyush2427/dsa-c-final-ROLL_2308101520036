@@ -1,4 +1,4 @@
-# DSA-C Final Assessment - <Swati Swaroop> (<2308101520054>)
+# DSA-C Final Assessment - <Piyush Pandey> 238101520036)
 ## Build
 gcc -std=c11 -Wall -Wextra -O2 SectionB/Q1
 _
