@@ -1,4 +1,4 @@
-# DSA-C Final Assessment - <Piyush Pandey> 238101520036)
+# DSA-C Final Assessment - <Piyush Pandey> 2308101520036)
 ## Build
 gcc -std=c11 -Wall -Wextra -O2 SectionB/Q1
 _
